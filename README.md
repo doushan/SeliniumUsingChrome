@@ -1,6 +1,9 @@
 # ex2Chrome
 Finding elements in Selenium WebDriver Using Chrome Browser
 
+Dowload chrome driver from HERE ---->>>>> https://sites.google.com/a/chromium.org/chromedriver/downloads   <<<<<<<---------
+
+
 
 Selenium Overview
 What is Selenium?
