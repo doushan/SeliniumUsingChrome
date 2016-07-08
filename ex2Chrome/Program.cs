@@ -50,8 +50,6 @@ namespace ex2Chrome
             IWebElement element2 = driver.FindElement(By.Name("phdesktopbody_0$submit"));
             element2.Click();
 
-           
-
             Thread.Sleep(500000);
             driver.Quit();
         }
